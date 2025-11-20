@@ -1,4 +1,4 @@
-print("helo")
+print("hello")
 print("*" * 10)
 x = 3
 y = x
